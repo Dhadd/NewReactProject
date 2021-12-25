@@ -17,6 +17,7 @@ const Chetan = () => {
             <h1>New to react</h1>
             <h2>New Chetan</h2>
             <h2>Hi Gaurav</h2>
+            <h2>Hi Gaurav</h2>
         </div>
     )
 }
