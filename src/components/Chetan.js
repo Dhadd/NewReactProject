@@ -14,6 +14,7 @@ const Chetan = () => {
         <div>
             <h1 style={{color:"black"}}>Hello World </h1>
             <h1>New React Project</h1>
+            <h1>New to react</h1>
         </div>
     )
 }
