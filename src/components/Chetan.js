@@ -15,6 +15,8 @@ const Chetan = () => {
             <h1 style={{color:"black"}}>Hello World </h1>
             <h1>New React Project</h1>
             <h1>New to react</h1>
+            <h2>New Chetan</h2>
+            <h2>Hi Gaurav</h2>
         </div>
     )
 }
